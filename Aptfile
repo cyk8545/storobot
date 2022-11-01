@@ -1,3 +1,4 @@
 git add .
+heroku git:remote -a customer-storobot
 git commit -m "Add precompiled assets for Heroku"
-git push heroku main
+git push heroku master
