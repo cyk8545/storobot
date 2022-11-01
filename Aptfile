@@ -1,3 +1,3 @@
-git
-git checkout -b masterbranch
+git add .
+git commit -m "Add precompiled assets for Heroku"
 git push heroku main
