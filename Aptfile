@@ -1,1 +1,3 @@
 git
+git checkout -b masterbranch
+git push heroku masterbranch
