@@ -1,1 +1,1 @@
-git rm ProcFile –f
+web gunicorn application:app
