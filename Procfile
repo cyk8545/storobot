@@ -1,1 +1,1 @@
-worker: python pearsingPost.py
+web gunicorn
