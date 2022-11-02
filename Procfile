@@ -1,1 +1,1 @@
-web : storobot.js
+web: gunicorn app:app
