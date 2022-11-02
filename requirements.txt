@@ -4,3 +4,4 @@ pyfcm==1.5.1
 firebase_admin==4.5.0
 
 psycopg2==2.6.2
+gunicorn==19.7.1
